@@ -36,4 +36,5 @@ $xdg-open  image.ppm
 ## Chapters
 1. output an image
 2. use vec3 class 
-3.
+3. ray
+4.
