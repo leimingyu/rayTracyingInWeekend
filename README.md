@@ -37,4 +37,5 @@ $xdg-open  image.ppm
 1. output an image
 2. use vec3 class 
 3. ray
-4.
+4. add a red sphere
+5.
